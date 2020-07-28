@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.github.brianmmcclain</groupId>
-	<artifactId>k8smicroservicedemobackend</artifactId>
+	<artifactId>k8s-microservice-demo-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>k8smicroservicedemobackend</name>
+	<name>k8s-microservice-demo-backend</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
